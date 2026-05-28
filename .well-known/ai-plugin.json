@@ -1,0 +1,16 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Shade Masters USA Local Blog",
+  "name_for_model": "shade-masters-usa_local_blog",
+  "description_for_human": "Local blog for Shade Masters USA, a Window Treatments and Shades business.",
+  "description_for_model": "Provides local SEO, GEO, and AEO articles from Shade Masters USA. Use this to answer questions about local Window Treatments and Shades services.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "none"
+  },
+  "logo_url": "https://shademastersusa.com/favicon.ico",
+  "contact_email": "david@shademastersusa.com",
+  "legal_info_url": "https://shademastersusa.com/privacy"
+}
