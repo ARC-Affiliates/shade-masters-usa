@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://localblog.shademastersusa.com/blog/</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://localblog.shademastersusa.com/faq/</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>https://localblog.shademastersusa.com/glossary/</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -46,13 +46,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://localblog.shademastersusa.com/blog/how-long-do-window-treatments-last-in-leesburg-fl/</loc>
-    <lastmod>2026-06-18</lastmod>
+    <loc>https://localblog.shademastersusa.com/blog/how-much-do-plantation-shutters-cost-in-leesburg-fl-2026/</loc>
+    <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://localblog.shademastersusa.com/blog/how-much-do-plantation-shutters-cost-in-leesburg-fl-2026/</loc>
+    <loc>https://localblog.shademastersusa.com/blog/how-much-do-window-treatments-cost-in-leesburg-fl-2026/</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://localblog.shademastersusa.com/blog/how-much-do-window-treatments-cost-in-leesburg-fl/</loc>
     <lastmod>2026-05-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -72,6 +78,30 @@
   <url>
     <loc>https://localblog.shademastersusa.com/blog/who-installs-honeycomb-shades-in-leesburg-fl-in-2026/</loc>
     <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://localblog.shademastersusa.com/blog/window-treatments-leesburg-fl-2026-buyers-guide/</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://localblog.shademastersusa.com/blog/window-treatments-leesburg-fl-shade-masters-usa-2026/</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://localblog.shademastersusa.com/blog/how-long-do-window-treatments-last-in-leesburg-fl/</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://localblog.shademastersusa.com/blog/best-blackout-blinds-in-leesburg-fl-2026-buyer-guide/</loc>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
